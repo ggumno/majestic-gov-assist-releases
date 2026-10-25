@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "catalogSchemaVersion": 1,
+  "version": "2026.10.26.1",
+  "updatedAt": "2026-10-25T22:07:22.736Z",
+  "documentsUrl": "./documents-9399bca44a5057fbe8dac30a67eca2fd3e81a3eff40cafc3c05021a3fb8af950.json",
+  "sha256": "9399bca44a5057fbe8dac30a67eca2fd3e81a3eff40cafc3c05021a3fb8af950",
+  "sizeBytes": 17365168,
+  "documentCount": 8034,
+  "serverIds": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19"
+  ]
+}
