@@ -1,0 +1,13 @@
+{
+  "version": "0.2.6",
+  "notes": "Выбор микрофона в настройках с сохранением между запусками. Исправлена отмена записи. Локальные нейропоиск и распознавание речи.",
+  "pub_date": "2026-10-29T17:08:33.827Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdjkyK1FZK29iL05HTVVBdzFTV0ZFYzBJZkhDUW1iL2g2Ymo4MVRmYnJEbTU0SUtWRjFHNzRyWCtBV2pZVWk3Y0l6UmFWZFl0YTI3d1FpdFdxYmhRUDZSWHNNcHc3bmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkzNzEzCWZpbGU6TWFqZXN0aWMgR292IEFzc2lzdGFudCAoVGVzdCBOZXVyb24pXzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpvRnhtVjBoVjgwRkZQNkVEemRsNWRhTTdxNFU1ZDdKK2Vla0dtSSsyRHRlZnU2bDk4eVJKOXRWNVg0WGNSTWt4VkdrckZKeTM1NWlVemhoSmNSSEREQT09Cg==",
+      "url": "https://github.com/ggumno/majestic-gov-assist-releases/releases/download/test-neuron-v0.2.6/Majestic.GOV.Assist.0.2.6.Test.Neuron.exe",
+      "size": 42712018,
+      "sha256": "0a39de141d1e105be6072d908fa97c2107f8289ae3aebbafb94b6ac27b49b4a9"
+    }
+  }
+}
